@@ -165,6 +165,9 @@ cython_debug/
 *.pth
 *.npy
 *.JPEG
+*.jpeg
+*.jpg
+*.png
 *.PNG
 *.JPG
 *.tar
@@ -172,4 +175,3 @@ cython_debug/
 *.pkl
 *.zip
 *.gz
-
