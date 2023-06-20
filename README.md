@@ -29,8 +29,6 @@ There are two main components of the uGuard system:
 1. Reconstruction component to remove adversarial perturbation
 2. Explainability-based unsafe image obfuscation
 
-Provided with 
-
 We provided scripts to run these in uGuard/scripts
 
 ## Data
